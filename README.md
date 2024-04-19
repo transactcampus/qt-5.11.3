@@ -1,3 +1,8 @@
+DOWNLOAD
+========
+
+(https://github.com/transactcampus/qt-5.11.3/releases/download/5.11.3/qt-everywhere-src-5.11.3.tar.gz)[Download qt-everywhere-src-5.11.3.tar.gz]
+
 HOW TO BUILD QT5
 ================
 
